@@ -50,7 +50,7 @@ body = '''
 ## Sub-issues
 この Epic の Sub-issues は、GitHub の Sub-issue 機能として紐づけられます（本文のチェックリスト管理は不要）。
 '''
-# labels = ["epic"] # optional
+labels = ["epic"]
 
 [[steps]]
 id = "sub1"
